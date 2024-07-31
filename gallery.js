@@ -46,22 +46,22 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "최준빈 ♥ 이정서의 모바일 청첩장",
+        title: "정진현 ♥ 황미래의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/ItUlt6i.png",
+        imageUrl: "https://i.imgur.com/3u5l8Yc.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo8.luvle.co.kr",
-          webUrl: "https://mo8.luvle.co.kr",
+          mobileWebUrl: "https://mo11.luvle.co.kr",
+          webUrl: "https://mo11.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo8.luvle.co.kr",
-            webUrl: "https://mo8.luvle.co.kr",
+            mobileWebUrl: "https://mo11.luvle.co.kr",
+            webUrl: "https://mo11.luvle.co.kr",
           },
         },
       ],
